@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Addison Powell
-- 👀 I’m interested in data science and signal processing for biological electrical structures
-- 🌱 I’m currently applied mathematics, signal processing, data analysis
-- 💞️ I’m looking to collaborate on sythetic organ research
+- I’m interested in data science and signal processing for biological electrical structures
+- I’m currently studying applied mathematics, signal processing, data analysis
+- I’m looking to collaborate on sythetic organ research
 - 📫 How to reach me addisonfpowell@gmail.com or https://www.linkedin.com/in/addison-powell-584559202/
 
 <!---
