@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Addison Powell
 - I’m interested in modeling dynamical systems and signal processing
 - I’m currently studying applied mathematics: optimal control, deep learning, bayesian statistics, machine learning, etc.
-- I’m looking to enter and collaborate on sythetic organ research
+- I’m looking to enter into the field of and collaborate on sythetic organ research
 - 📫 How to reach me addisonfpowell@gmail.com or https://www.linkedin.com/in/addison-powell-584559202/
 
 <!---
